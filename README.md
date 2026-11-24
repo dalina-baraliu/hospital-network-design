@@ -123,11 +123,11 @@ Testing evidence and configuration screenshots are available in the technical re
 ```text
 Hospital-Network-Design/
 ├── packet-tracer/
-│   └── Hospital-Network.pkt
+│   └── hospital-network.pkt
 ├── documentation/
-│   └── Hospital-Network-Documentation.pdf
+│   └── document_file.pdf
 ├── screenshots/
-│   └── network-topology.png
+│   └── hospital-network-topology.png
 └── README.md
 ```
 
